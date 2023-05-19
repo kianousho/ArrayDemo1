@@ -6,12 +6,22 @@ public class Student {
     // this is a comment here
     // how to revert many times
     // comment 3
+    //
     private String sId;
-    private String sNmae;
+    private String sName;
+    private String address;
 
-    public Student(String sId, String kianoush) {
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public Student(String sId, String Kianoush) {
         this.sId = sId;
-        this.sNmae = sNmae;
+        this.sName = Kianoush;
     }
 
     public String getsId() {
