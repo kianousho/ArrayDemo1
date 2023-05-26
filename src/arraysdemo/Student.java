@@ -4,6 +4,7 @@ package arraysdemo;
 
 public class Student {
 //comment added on github for fetch
+    //this is for my own exercise
     private String sId;
     private String sName;
     private String address;
