@@ -2,7 +2,7 @@
 package arraysdemo;
 
 import java.util.Scanner;
-
+//comment added
 
 public class ArraysDemo {
 
