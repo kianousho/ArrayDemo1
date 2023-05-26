@@ -3,7 +3,7 @@ package arraysdemo;
 
 
 public class Student {
-comment added on github for fetch
+//comment added on github for fetch
     private String sId;
     private String sName;
     private String address;
